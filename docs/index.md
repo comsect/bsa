@@ -1,5 +1,5 @@
 ---
-description: Home
+description: Introduction
 ---
 
 An Act to consolidate and to provide for general rules and principles of evidence for fair trial.
