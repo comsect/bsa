@@ -3,3 +3,4 @@ pillow
 cairosvg
 urllib3
 mkdocs-minify-plugin
+mkdocs-glightbox
